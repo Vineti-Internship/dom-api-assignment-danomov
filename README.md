@@ -21,6 +21,11 @@
 
 __There are two possible grades for this assignment: P and F (Pass, Fail)__
 
-## Grade: __To Be Added__
+## Grade: P
+
+## Feedback
+- Pay attention to naming `myFunction` is not a valid name for a function, as it is not descriptive
+- Pay attention to code style
+    - [For Reference]("https://github.com/airbnb/javascript")
 
 \* DO NOT CHANGE THIS DOCUMENT, the reviewer will check the homework and add the grade
